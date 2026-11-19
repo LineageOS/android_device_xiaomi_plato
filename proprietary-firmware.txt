@@ -7,7 +7,7 @@ dtbo.img;AB
 dpm.img;AB
 gpueb.img;AB
 gz.img;AB
-lk.img;AB
+lk.img;AB|e2d1083bacdc6c5ee2324179b4b7ea6f93953a02
 mcf_ota.img;AB
 mcupm.img;AB
 md1img.img;AB
