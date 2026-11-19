@@ -5,6 +5,5 @@
 
 runtime_resource_overlay {
     name: "NfcOverlayPlato",
-    resource_dirs: ["res"],
     vendor: true,
 }

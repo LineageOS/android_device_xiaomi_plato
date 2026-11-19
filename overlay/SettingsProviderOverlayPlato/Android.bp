@@ -5,6 +5,5 @@
 
 runtime_resource_overlay {
     name: "SettingsProviderOverlayPlato",
-    resource_dirs: ["res"],
     device_specific: true,
 }

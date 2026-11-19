@@ -5,6 +5,5 @@
 
 runtime_resource_overlay {
     name: "WifiResOverlayPlato",
-    resource_dirs: ["res"],
     device_specific: true,
 }
